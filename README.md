@@ -6,7 +6,7 @@ This repository contains selected projects from my two degrees:
 ## Projects
 - **ANDIE: A Non-Destructive Image Editor** - 2022 Group Project
 - **Counting it Up** - 2023 Pair project
-- 
+- **Dates** - 2023 Individual project
 
 ## Project Details
 
@@ -26,3 +26,10 @@ This repository contains selected projects from my two degrees:
 - The seventh iteration uses pascals triange to 'find' the result
 - The final iteration adapts a formulaic approach to pascals triangle by finding the triangle number with the inputs being the rows/columns
 - The ReadMe file for this project explains it better
+
+### Dates (2023)
+- This program has a much simpler purpose: to take a date input and check its validity
+- It checks the input format is valid, and then checks the date itself is a valid date
+- Finally it converts the date into a consistent format and outputs it (if valid)
+
+
