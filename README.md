@@ -5,8 +5,9 @@ This repository contains selected projects from my two degrees:
 
 ## Projects
 - **ANDIE: A Non-Destructive Image Editor** - 2022 Group Project
-- **Counting it Up** - 2023 Pair project
-- **Dates** - 2023 Individual project
+- **Counting it Up** - 2023 Pair Project
+- **Dates** - 2023 Individual Project
+- **Snowflake** - 2023 Individual Project
 
 ## Project Details
 
@@ -31,5 +32,12 @@ This repository contains selected projects from my two degrees:
 - This program has a much simpler purpose: to take a date input and check its validity
 - It checks the input format is valid, and then checks the date itself is a valid date
 - Finally it converts the date into a consistent format and outputs it (if valid)
+
+  ### Snowflake (2023)
+- The purpose of this project was to allow us to garner a basic understanding of Graphical User Interfaces (GUIs)
+- The purpose was to create a program that produces an interactive GUI that allows users to display a Koch Snowflake of a chosen order
+- A Koch snowflake starts as a triangle for order 1, adds a further triangle to each of its sides for order 2 (in the middle of each side)
+- For order 3 it adds another triangle to each side, and so on
+- Details are displayed in the Read Me file, it can be run through the FrameApp file
 
 
